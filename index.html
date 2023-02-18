@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Kruskal's Algorithm Input</title>
+    
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="container">
+      <h2>Enter Graph Inputs for Kruskal's Algorithm</h2>
+      <form>
+        <label for="vertices">Enter nodes with space seperator:</label>
+        <input type="text" id="nodes" name="nodes" oninput="this.value = this.value.toUpperCase()" required />
+        <div id="edges"></div>
+        <button type="button" onclick="addEdge()">Add Edge</button>
+        <button type="button" onclick="runKruskal()">Run Kruskal's Algorithm</button>
+      </form>
+    </div>
+
+    <script type="text/javascript" src="kruskals.js"></script>
+  </body>
+</html>
