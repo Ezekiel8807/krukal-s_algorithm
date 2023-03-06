@@ -8,18 +8,18 @@ Input all nodes seperated with space in the required input field
 
 
 **Step 2**
-![k2.png](./img/k1.PNG)
+![k2.png](./img/k2.PNG)
 
 click the _add edge_ button to provide the _start node_, _end node_ and the _weight or length of the arc (edge)
 
-![k3.png](./img/k1.PNG)
+![k3.png](./img/k3.PNG)
 
 
 **Step 3**
-![k4.png](./img/k1.PNG)
+![k4.png](./img/k4.PNG)
 
 click on the above button to perform kruskal's algorithm on the inputed data.
 
 
 and lastly the bellow dialog in the image shows the minimal spanning tree length
-![k5.png](./img/k1.PNG)
+![k5.png](./img/k5.PNG)
