@@ -116,5 +116,5 @@ function showResult(minimumSpanningTree){
 // close result block
 function closeResult(){
   document.getElementById("result").style.display = "none";
-  window.location.href = "/";
+  window.location.href = "https://ezekiel8807.github.io/krukal-s_algorithm/";
 }
